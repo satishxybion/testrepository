@@ -1,0 +1,3 @@
+public class Test{
+Sysytm.out.println("welcome");
+}
